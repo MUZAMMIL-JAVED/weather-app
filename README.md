@@ -125,7 +125,6 @@
 
 This project is licensed under the **LGPL-3.0** license.  
 
-- 📄 <a href="LICENSE">View Full License Text</a>  
 - You may not use the name, logo, or trademarks of this project without permission.  
 - Modified versions must be clearly marked to prevent confusion with the original.  
 - Misrepresentation of origin or source is strictly prohibited.  
