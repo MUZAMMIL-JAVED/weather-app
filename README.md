@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" alt="Breezy Weather Logo" width="120"/>
+  
 </div>
 
 <h1 align="center">🌤️ Breezy Weather</h1>
@@ -119,14 +119,4 @@
 
 ---
 
-## ⚖️ License
 
-<h3>GNU Lesser General Public License v3.0</h3>
-
-This project is licensed under the **LGPL-3.0** license.  
-
-- You may not use the name, logo, or trademarks of this project without permission.  
-- Modified versions must be clearly marked to prevent confusion with the original.  
-- Misrepresentation of origin or source is strictly prohibited.  
-
----
